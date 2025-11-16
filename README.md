@@ -1,3 +1,6 @@
+Name: Namachivayam T
+
+Reg No: 212223060179
 ### AIM: 
 To perform and verify multirate DSP without function using SCILAB. 
 
